@@ -1,0 +1,614 @@
+[
+  {
+    "code": "35.78.01.1001",
+    "location": "Karang Pilang, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.01.1002",
+    "location": "Kebraon, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.01.1003",
+    "location": "Kedurus, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.01.1004",
+    "location": "Waru Gunung, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.02.1001",
+    "location": "Sidosermo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.02.1002",
+    "location": "Bendul Merisi, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.02.1003",
+    "location": "Margorejo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.02.1004",
+    "location": "Jemur Wonosari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.02.1005",
+    "location": "Siwalankerto, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.03.1001",
+    "location": "Kalirungkut, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.03.1002",
+    "location": "Rungkut Kidul, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.03.1003",
+    "location": "Kedung Baruk, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.03.1004",
+    "location": "Penjaringansari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.03.1005",
+    "location": "Wonorejo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.03.1006",
+    "location": "Medokan Ayu, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.04.1001",
+    "location": "Wonokromo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.04.1002",
+    "location": "Jagir, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.04.1003",
+    "location": "Ngagel, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.04.1004",
+    "location": "Ngagel Rejo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.04.1005",
+    "location": "Darmo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.04.1006",
+    "location": "Sawunggaling, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.05.1001",
+    "location": "Tegalsari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.05.1002",
+    "location": "Dr. Soetomo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.05.1003",
+    "location": "Kedungdoro, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.05.1004",
+    "location": "Keputran, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.05.1005",
+    "location": "Wonorejo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.06.1001",
+    "location": "Petemon, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.06.1002",
+    "location": "Sawahan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.06.1003",
+    "location": "Banyu Urip, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.06.1004",
+    "location": "Putat Jaya, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.06.1005",
+    "location": "Kupang Krajan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.06.1006",
+    "location": "Pakis, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.07.1001",
+    "location": "Embong Kaliasin, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.07.1002",
+    "location": "Genteng, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.07.1003",
+    "location": "Kapasari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.07.1004",
+    "location": "Ketabang, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.07.1005",
+    "location": "Peneleh, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.08.1001",
+    "location": "Gubeng, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.08.1002",
+    "location": "Mojo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.08.1003",
+    "location": "Airlangga, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.08.1004",
+    "location": "Kertajaya, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.08.1005",
+    "location": "Baratajaya, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.08.1006",
+    "location": "Pucang Sewu, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.09.1001",
+    "location": "Keputih, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.09.1002",
+    "location": "Gebang Putih, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.09.1003",
+    "location": "Klampis Ngasem, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.09.1004",
+    "location": "Menur Pumpungan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.09.1005",
+    "location": "Nginden Jangkungan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.09.1006",
+    "location": "Semolowaru, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.09.1007",
+    "location": "Medokan Semampir, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.10.1001",
+    "location": "Tambaksari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.10.1002",
+    "location": "Ploso, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.10.1003",
+    "location": "Gading, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.10.1004",
+    "location": "Pacarkembang, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.10.1005",
+    "location": "Rangkah, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.10.1006",
+    "location": "Pacarkeling, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.10.1007",
+    "location": "Kapasmadya Baru, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.10.1008",
+    "location": "Dukuh Setro, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.11.1001",
+    "location": "Simokerto, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.11.1002",
+    "location": "Kapasan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.11.1003",
+    "location": "Sidodadi, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.11.1004",
+    "location": "Simolawang, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.11.1005",
+    "location": "Tambakrejo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.12.1001",
+    "location": "Bongkaran, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.12.1002",
+    "location": "Nyamplungan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.12.1003",
+    "location": "Krembangan Utara, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.12.1006",
+    "location": "Tanjung Perak, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.13.1001",
+    "location": "Alun-alun Contong, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.13.1002",
+    "location": "Bubutan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.13.1003",
+    "location": "Gundih, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.13.1004",
+    "location": "Jepara, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.13.1005",
+    "location": "Tembok Dukuh, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.14.1002",
+    "location": "Tandes, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.14.1006",
+    "location": "Karang Poh, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.14.1007",
+    "location": "Balongsari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.14.1009",
+    "location": "Manukan Kulon, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.14.1011",
+    "location": "Manukan Wetan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.14.1012",
+    "location": "Banjar Sugihan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.15.1001",
+    "location": "Krembangan Selatan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.15.1002",
+    "location": "Kemayoran, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.15.1003",
+    "location": "Perak Barat, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.15.1004",
+    "location": "Dupak, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.15.1005",
+    "location": "Morokrembangan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.16.1001",
+    "location": "Ampel, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.16.1002",
+    "location": "Pegirian, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.16.1003",
+    "location": "Wonokusumo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.16.1004",
+    "location": "Ujung, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.16.1005",
+    "location": "Sidotopo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.17.1001",
+    "location": "Tanah Kali Kedinding, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.17.1002",
+    "location": "Sidotopo Wetan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.17.1003",
+    "location": "Bulak Banteng, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.17.1004",
+    "location": "Tambak Wedi, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.18.1001",
+    "location": "Bangkingan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.18.1002",
+    "location": "Jeruk, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.18.1003",
+    "location": "Lakarsantri, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.18.1004",
+    "location": "Lidah kulon, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.18.1005",
+    "location": "Lidah Wetan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.18.1006",
+    "location": "Sumurwelut, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.19.1001",
+    "location": "Kandangan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.19.1003",
+    "location": "Sememi, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.19.1004",
+    "location": "Tambak Oso Wilangun, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.19.1005",
+    "location": "Romokalisari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.20.1001",
+    "location": "Wiyung, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.20.1002",
+    "location": "Jajar Tunggal, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.20.1003",
+    "location": "Babatan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.20.1004",
+    "location": "Balas Klumprik, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.21.1001",
+    "location": "Dukuh Pakis, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.21.1002",
+    "location": "Dukuh Kupang, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.21.1003",
+    "location": "Gunung Sari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.21.1004",
+    "location": "Pradah Kalikendal, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.22.1001",
+    "location": "Gayungan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.22.1002",
+    "location": "Menanggal, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.22.1003",
+    "location": "Dukuh Menanggal, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.22.1004",
+    "location": "Ketintang, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.23.1001",
+    "location": "Jambangan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.23.1002",
+    "location": "Karah, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.23.1003",
+    "location": "Kebonsari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.23.1004",
+    "location": "Pagesangan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.24.1001",
+    "location": "Kutisari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.24.1002",
+    "location": "Kendangsari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.24.1003",
+    "location": "Tenggilis Mejoyo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.24.1004",
+    "location": "Panjang Jiwo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.25.1001",
+    "location": "Gunung Anyar, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.25.1002",
+    "location": "Rungkut Tengah, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.25.1003",
+    "location": "Rungkut Menanggal, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.25.1004",
+    "location": "Gunung Anyar Tambak, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.26.1001",
+    "location": "Mulyorejo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.26.1002",
+    "location": "Manyar Sabrangan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.26.1003",
+    "location": "Kejawan Putih Tambak, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.26.1004",
+    "location": "Kalisari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.26.1005",
+    "location": "Dukuh Sutorejo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.26.1006",
+    "location": "Kalijudan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.27.1001",
+    "location": "Sukomanunggal, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.27.1002",
+    "location": "Tanjungsari, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.27.1003",
+    "location": "Sonokwijenan, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.27.1004",
+    "location": "Putat Gede, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.27.1005",
+    "location": "Simomulyo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.27.1006",
+    "location": "Simomulyo Baru, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.28.1001",
+    "location": "Asem Rowo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.28.1002",
+    "location": "Genting Kalianak, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.28.1005",
+    "location": "Tambak Sarioso, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.29.1001",
+    "location": "Kedung Cowek, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.29.1003",
+    "location": "Kenjeran, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.29.1004",
+    "location": "Bulak, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.29.1005",
+    "location": "Sukolilo Baru, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.30.1001",
+    "location": "Pakal, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.30.1002",
+    "location": "Babat Jerawat, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.30.1004",
+    "location": "Sumber Rejo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.30.1005",
+    "location": "Benowo, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.31.1001",
+    "location": "Sambikerep, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.31.1002",
+    "location": "Made, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.31.1003",
+    "location": "Beringin, Kota Surabaya, Jawa Timur"
+  },
+  {
+    "code": "35.78.31.1004",
+    "location": "Lontar, Kota Surabaya, Jawa Timur"
+  }
+]
